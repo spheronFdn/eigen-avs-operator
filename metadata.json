@@ -1,7 +1,7 @@
 {
   "name": "Spheron Foundation",
   "website": "https://spheron.network",
-  "description": "",
-  "logo": "<Take raw URL of uploaded logo on Github>",
+  "description": "Spheron is a decentralized GPU network for AI",
+  "logo": "https://raw.githubusercontent.com/spheronFdn/eigen-avs-operator/main/logo.png",
   "twitter": "https://x.com/SpheronFDN"
 }
